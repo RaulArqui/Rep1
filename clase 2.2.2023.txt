@@ -1,0 +1,11 @@
+Clase 02.02.2023
+
+Declaracion de funciones con las variables necesarias para la obtencion de datos, y asi poder llamarla durante la 
+funcion main. Manteniendo el contenido de la funcion en el fondo del programa
+
+Explicacion de movimiento de variables y el uso de memoria stock/pila para el creado y borrado
+de variables locales dentro de las funciones.
+
+Big indian, little indian, orden de bits 0000 0000
+
+

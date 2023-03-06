@@ -1,0 +1,2 @@
+Al asignar un puntero un p++, este dependera de la arquitectura para saber el siguiente numero (valor) al que se le asignara
+en caso de una memoria de 16 bits, este aumentara de dos en dos, por se 2 bytes. Pagina 26 y 27

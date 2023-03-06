@@ -1,0 +1,10 @@
+Clasificador con opcion para ver arquitectura y fabricantes, 
+utilizar apuntador para esto 
+
+Usar funcion para recolectar datos
+opcion para ver clasificadores
+Opciones de datos con datos invalidos
+
+origen tamano paquetes destino(puntero)
+
+AP07_Ficheros
